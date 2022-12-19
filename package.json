@@ -1,0 +1,19 @@
+{
+  "name": "frescoplay-handson",
+  "version": "1.0.0",
+  "description": "This is package for calculating factorial of a number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rjrebel/npm-demo-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rjrebel/npm-demo-package/issues"
+  },
+  "homepage": "https://github.com/Rjrebel/npm-demo-package#readme"
+}
